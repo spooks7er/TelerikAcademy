@@ -1,0 +1,18 @@
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.exe.config
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.csprojResolveAssemblyReference.cache
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.exe.config
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\bin\Debug\5 – Find Bits.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\5 – Find Bits\obj\Debug\5 – Find Bits.csprojResolveAssemblyReference.cache

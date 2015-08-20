@@ -1,0 +1,6 @@
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\03 - LoverOf3\bin\Debug\03 - LoverOf3.exe.config
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\03 - LoverOf3\bin\Debug\03 - LoverOf3.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\03 - LoverOf3\bin\Debug\03 - LoverOf3.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\03 - LoverOf3\obj\Debug\03 - LoverOf3.csprojResolveAssemblyReference.cache
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\03 - LoverOf3\obj\Debug\03 - LoverOf3.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\03 - LoverOf3\obj\Debug\03 - LoverOf3.pdb

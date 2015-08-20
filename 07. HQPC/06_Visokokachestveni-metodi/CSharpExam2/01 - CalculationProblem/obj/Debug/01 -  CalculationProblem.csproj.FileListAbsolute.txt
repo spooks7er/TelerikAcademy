@@ -1,0 +1,6 @@
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\01 -  CalculationProblem\bin\Debug\01 -  CalculationProblem.exe.config
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\01 -  CalculationProblem\bin\Debug\01 -  CalculationProblem.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\01 -  CalculationProblem\bin\Debug\01 -  CalculationProblem.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\01 -  CalculationProblem\obj\Debug\01 -  CalculationProblem.csprojResolveAssemblyReference.cache
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\01 -  CalculationProblem\obj\Debug\01 -  CalculationProblem.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\01 -  CalculationProblem\obj\Debug\01 -  CalculationProblem.pdb

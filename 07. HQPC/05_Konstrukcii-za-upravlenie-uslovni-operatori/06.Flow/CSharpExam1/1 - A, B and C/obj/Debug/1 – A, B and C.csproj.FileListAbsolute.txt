@@ -1,0 +1,20 @@
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.exe.config
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.csprojResolveAssemblyReference.cache
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.exe.config
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\obj\Debug\1 – A, B and C.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\1 – A, B and C\bin\Debug\1 – A, B and C.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\1 – A, B and C\bin\Debug\1 – A, B and C.exe.config
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\1 – A, B and C\obj\Debug\1 – A, B and C.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\1 – A, B and C\obj\Debug\1 – A, B and C.pdb

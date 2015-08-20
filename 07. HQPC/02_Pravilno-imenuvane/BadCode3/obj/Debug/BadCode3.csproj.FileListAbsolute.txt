@@ -1,0 +1,6 @@
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\BadCode3\bin\BadCode3.dll.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\BadCode3\bin\BadCode3.dll
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\BadCode3\bin\BadCode3.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\BadCode3\obj\Debug\BadCode3.csprojResolveAssemblyReference.cache
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\BadCode3\obj\Debug\BadCode3.dll
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\BadCode3\obj\Debug\BadCode3.pdb

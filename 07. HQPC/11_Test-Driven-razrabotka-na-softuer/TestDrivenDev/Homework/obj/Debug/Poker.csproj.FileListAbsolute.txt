@@ -1,0 +1,4 @@
+C:\Users\Spooky\Desktop\TestDrivenDev\Homework\bin\Debug\Poker.exe
+C:\Users\Spooky\Desktop\TestDrivenDev\Homework\bin\Debug\Poker.pdb
+C:\Users\Spooky\Desktop\TestDrivenDev\Homework\obj\Debug\Poker.exe
+C:\Users\Spooky\Desktop\TestDrivenDev\Homework\obj\Debug\Poker.pdb

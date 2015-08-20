@@ -1,0 +1,8 @@
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\4 - Ex rugs\bin\Debug\4 – Ex rugs.exe.config
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\4 - Ex rugs\obj\Debug\4 – Ex rugs.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\4 - Ex rugs\obj\Debug\4 – Ex rugs.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\4 - Ex rugs\bin\Debug\4 – Ex rugs.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\4 - Ex rugs\bin\Debug\4 – Ex rugs.pdb
+C:\Users\Jenny\Desktop\HW_dimi1000_Konstrukcii-za-upravlenie-uslovni-opera_2015-07-15_15-51\06.Flow\CSharpExam1\4 - Ex rugs\bin\Debug\4 – Ex rugs.exe.config
+C:\Users\Jenny\Desktop\HW_dimi1000_Konstrukcii-za-upravlenie-uslovni-opera_2015-07-15_15-51\06.Flow\CSharpExam1\4 - Ex rugs\obj\Debug\4 – Ex rugs.exe
+C:\Users\Jenny\Desktop\HW_dimi1000_Konstrukcii-za-upravlenie-uslovni-opera_2015-07-15_15-51\06.Flow\CSharpExam1\4 - Ex rugs\obj\Debug\4 – Ex rugs.pdb

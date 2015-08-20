@@ -1,0 +1,6 @@
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareSortingAlgorithms\bin\Debug\CompareSortingAlgorithms.exe.config
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareSortingAlgorithms\bin\Debug\CompareSortingAlgorithms.exe
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareSortingAlgorithms\bin\Debug\CompareSortingAlgorithms.pdb
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareSortingAlgorithms\obj\Debug\CompareSortingAlgorithms.exe
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareSortingAlgorithms\obj\Debug\CompareSortingAlgorithms.pdb
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareSortingAlgorithms\obj\Debug\CompareSortingAlgorithms.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk\bin\Debug\RotatingMatrixWalk.exe.config
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk\bin\Debug\RotatingMatrixWalk.exe
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk\bin\Debug\RotatingMatrixWalk.pdb
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk\obj\Debug\RotatingMatrixWalk.exe
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk\obj\Debug\RotatingMatrixWalk.pdb

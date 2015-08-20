@@ -1,0 +1,7 @@
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk.Tests\obj\Debug\RotatingMatrixWalk.Tests.csprojResolveAssemblyReference.cache
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk.Tests\bin\Debug\RotatingMatrixWalk.Tests.dll
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk.Tests\bin\Debug\RotatingMatrixWalk.Tests.pdb
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk.Tests\bin\Debug\RotatingMatrixWalk.exe
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk.Tests\bin\Debug\RotatingMatrixWalk.pdb
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk.Tests\obj\Debug\RotatingMatrixWalk.Tests.dll
+c:\users\spooky\documents\visual studio 2013\Projects\RotatingMatrixWalk\RotatingMatrixWalk.Tests\obj\Debug\RotatingMatrixWalk.Tests.pdb

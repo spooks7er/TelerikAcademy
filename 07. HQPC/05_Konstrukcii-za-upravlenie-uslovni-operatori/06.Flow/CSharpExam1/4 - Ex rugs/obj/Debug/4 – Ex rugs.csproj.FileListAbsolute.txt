@@ -1,0 +1,21 @@
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.exe.config
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.csprojResolveAssemblyReference.cache
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.csprojResolveAssemblyReference.cache
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.exe.config
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\bin\Debug\4 – Ex rugs.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\4 – Ex rugs\obj\Debug\4 – Ex rugs.csprojResolveAssemblyReference.cache

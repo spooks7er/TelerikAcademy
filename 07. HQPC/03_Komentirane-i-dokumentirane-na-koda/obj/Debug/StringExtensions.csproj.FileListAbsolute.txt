@@ -1,0 +1,5 @@
+C:\Users\Spooky\Desktop\HW_dimi1000_Komentirane-i-dokumentirane-na-koda_2015-07-10_16-37\bin\Debug\StringExtensions.dll
+C:\Users\Spooky\Desktop\HW_dimi1000_Komentirane-i-dokumentirane-na-koda_2015-07-10_16-37\bin\Debug\StringExtensions.pdb
+C:\Users\Spooky\Desktop\HW_dimi1000_Komentirane-i-dokumentirane-na-koda_2015-07-10_16-37\obj\Debug\StringExtensions.dll
+C:\Users\Spooky\Desktop\HW_dimi1000_Komentirane-i-dokumentirane-na-koda_2015-07-10_16-37\obj\Debug\StringExtensions.pdb
+C:\Users\Spooky\Desktop\HW_dimi1000_Komentirane-i-dokumentirane-na-koda_2015-07-10_16-37\bin\Debug\StringExtensions.XML

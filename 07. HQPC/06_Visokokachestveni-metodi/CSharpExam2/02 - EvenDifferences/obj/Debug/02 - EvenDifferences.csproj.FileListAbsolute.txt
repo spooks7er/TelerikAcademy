@@ -1,0 +1,9 @@
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\02 - EvenDifferences\bin\Debug\02 - EvenDifferences.exe.config
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\02 - EvenDifferences\bin\Debug\02 - EvenDifferences.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\02 - EvenDifferences\bin\Debug\02 - EvenDifferences.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\02 - EvenDifferences\obj\Debug\02 - EvenDifferences.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\02 - EvenDifferences\obj\Debug\02 - EvenDifferences.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN2\02 - EvenDifferences\obj\Debug\02 - EvenDifferences.csprojResolveAssemblyReference.cache
+C:\Users\Jenny\Desktop\TheExamN2\02 - EvenDifferences\bin\Debug\02 - EvenDifferences.exe.config
+C:\Users\Jenny\Desktop\TheExamN2\02 - EvenDifferences\obj\Debug\02 - EvenDifferences.exe
+C:\Users\Jenny\Desktop\TheExamN2\02 - EvenDifferences\obj\Debug\02 - EvenDifferences.pdb

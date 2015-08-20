@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:Telerik.ILS.Common.StringExtensions">
+            <summary>
+            Static class providing various extension methods for the <see cref="T:System.String"/> class.
+            </summary>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            String extension method which generates an MD5 hash of a given string instance.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a string representation of the MD5 hash.
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            String extension method which converts the words "true", "ok", "yes", "1", "да" to a boolean value of true.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a boolean value
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)">
+            <summary>
+            String extension method which attepmts to convert a string numeric value to a short value
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a short value
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)">
+            <summary>
+            String extension method which attepmts to convert a string numeric value to an int value
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns an int value
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)">
+            <summary>
+            String extension method which attepmts to convert a string numeric value to a long value
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a long value
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            String extension method which attepmts to convert a string representing ad date to a DateTime value
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a DateTime value
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            String extension method which capitalizes the first letter of a string
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns the same string with the first letter capitalized
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            String extension method which returns the substring between two given strings. 
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <param name="startString">
+            Start of the substring.
+            </param>
+            <param name="endString">
+            End of the substring.
+            </param>
+            <param name="startFrom">
+            Index to start search from (optional).
+            </param>
+            <returns>
+            Returns the substring between startString and endString. If the substrings are not cointained in the input string - returns an empty string.
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            String extension method which converts every letter of a string in Cyrillic to its Latin representation.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a string with letters converted from Cyrillic to Latin.
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            String extension method which converts every letter of a string in Latin to its Cyrillic representation.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a string with letters converted from Latin to Cyrillic.
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            String extension method which converts Cyrillic to Latin letters of a username using <see cref="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)"/> method and replaces invalid symbols in the input string with an empty string.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a new valid username.
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            String extension method which replaces invalid symbols in the input string with an empty string.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a new valid filename.
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            String extension method which returns the first N characters of a string.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <param name="charsCount">
+            N, the number of characters to return
+            </param>
+            <returns>
+            Returns a string with lenght N
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            String extension method which returns the file extension from a valid filename
+            </summary>
+            <param name="fileName">
+            Current string instance.
+            </param>
+            <returns>
+            Returns the extension of the filename
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)">
+            <summary>
+            String extension method which returns the content type of a file determined by its extension.
+            </summary>
+            <param name="fileExtension">
+            Current string instance.
+            </param>
+            <returns>
+            Returns the content type if known, "application/octet-stream" - otherwise.
+            </returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            String extension method which converts the input string to a byte array.
+            </summary>
+            <param name="input">
+            Current string instance.
+            </param>
+            <returns>
+            Returns a byte array of the input string
+            </returns>
+        </member>
+    </members>
+</doc>

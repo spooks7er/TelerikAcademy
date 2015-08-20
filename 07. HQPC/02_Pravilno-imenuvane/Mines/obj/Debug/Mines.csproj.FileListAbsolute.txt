@@ -1,0 +1,6 @@
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\Mines\bin\Debug\Mines.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\Mines\bin\Debug\Mines.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\Mines\bin\Debug\Mines.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\Mines\obj\Debug\Mines.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\MinesGame\Mines\obj\Debug\Mines.pdb

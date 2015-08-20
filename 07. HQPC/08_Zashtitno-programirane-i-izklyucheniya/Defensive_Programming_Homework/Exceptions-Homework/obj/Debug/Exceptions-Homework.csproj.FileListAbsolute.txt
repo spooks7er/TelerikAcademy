@@ -1,0 +1,5 @@
+C:\Users\Spooky\Desktop\Defensive_Programming_Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+C:\Users\Spooky\Desktop\Defensive_Programming_Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Spooky\Desktop\Defensive_Programming_Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+C:\Users\Spooky\Desktop\Defensive_Programming_Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
+C:\Users\Spooky\Desktop\Defensive_Programming_Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache

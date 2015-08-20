@@ -1,0 +1,7 @@
+c:\users\spooky\documents\visual studio 2013\Projects\UnitTestingHomework\StudentsAndCourses.Test\obj\Debug\StudentsAndCourses.Test.csprojResolveAssemblyReference.cache
+c:\users\spooky\documents\visual studio 2013\Projects\UnitTestingHomework\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.Test.dll
+c:\users\spooky\documents\visual studio 2013\Projects\UnitTestingHomework\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.Test.pdb
+c:\users\spooky\documents\visual studio 2013\Projects\UnitTestingHomework\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.exe
+c:\users\spooky\documents\visual studio 2013\Projects\UnitTestingHomework\StudentsAndCourses.Test\bin\Debug\StudentsAndCourses.pdb
+c:\users\spooky\documents\visual studio 2013\Projects\UnitTestingHomework\StudentsAndCourses.Test\obj\Debug\StudentsAndCourses.Test.dll
+c:\users\spooky\documents\visual studio 2013\Projects\UnitTestingHomework\StudentsAndCourses.Test\obj\Debug\StudentsAndCourses.Test.pdb

@@ -1,0 +1,27 @@
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+c:\users\jenny\documents\visual studio 2013\Projects\TheExamN1\ConsoleApplication2\obj\Debug\3 - ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Spooky\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\1. CSharp I\TheExamN1\ConsoleApplication2\obj\Debug\3 - ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\3 - ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\3 - ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\3 - ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\3 - ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\3 - ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Jenny\Documents\Visual Studio 2013\Projects\CSharpExam1\3 - ConsoleApplication2\obj\Debug\3 - ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Jenny\Desktop\HW_dimi1000_Konstrukcii-za-upravlenie-uslovni-opera_2015-07-15_15-51\06.Flow\CSharpExam1\3 - ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Jenny\Desktop\HW_dimi1000_Konstrukcii-za-upravlenie-uslovni-opera_2015-07-15_15-51\06.Flow\CSharpExam1\3 - ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Jenny\Desktop\HW_dimi1000_Konstrukcii-za-upravlenie-uslovni-opera_2015-07-15_15-51\06.Flow\CSharpExam1\3 - ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,5 @@
+c:\users\spooky\documents\visual studio 2013\Projects\MinesGame\BadCode2\bin\Debug\BadCode2.exe.config
+c:\users\spooky\documents\visual studio 2013\Projects\MinesGame\BadCode2\bin\Debug\BadCode2.exe
+c:\users\spooky\documents\visual studio 2013\Projects\MinesGame\BadCode2\bin\Debug\BadCode2.pdb
+c:\users\spooky\documents\visual studio 2013\Projects\MinesGame\BadCode2\obj\Debug\BadCode2.exe
+c:\users\spooky\documents\visual studio 2013\Projects\MinesGame\BadCode2\obj\Debug\BadCode2.pdb

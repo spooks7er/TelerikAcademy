@@ -1,0 +1,5 @@
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe.config
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.pdb
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.exe
+C:\Users\Spooky\Desktop\Optimization_Homework\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.pdb
