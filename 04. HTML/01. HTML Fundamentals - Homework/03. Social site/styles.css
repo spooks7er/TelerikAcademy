@@ -1,0 +1,13 @@
+﻿body {
+    background-color: lightskyblue;
+}
+
+#profPic {
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+}
+
+.bolded {
+    font-weight: bold;
+}

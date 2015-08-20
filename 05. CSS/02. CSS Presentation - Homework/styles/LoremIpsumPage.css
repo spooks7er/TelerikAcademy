@@ -1,0 +1,17 @@
+@font-face {
+	src: url(../fonts/Edwardian_Scr_ITC_TT.ttf)
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: consolas, Edwardian Scr ITC TT;
+	font-size: 20px;
+	color: #0094ff
+}
+#lorem:first-line {
+	font-weight: bold
+}
+#lorem:first-letter {
+	font-size: 2.5em;
+	font-family: Edwardian Script ITC
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Functions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>6.Functions</h1>
+    <div>
+        <h3>Problem 1. English digit</h3>
+        <p>Write a function that returns the last digit of given integer as an English word.</p>
+        <input type="text" id="1input1" value="">
+        <button onclick="lastDigit()">Calculate</button>
+        <label for="" id="1result">/</label>
+    </div>
+    <div>
+        <h3>Problem 2. Reverse number</h3>
+        <p>Write a function that reverses the digits of given decimal number.</p>
+        <input type="text" id="2input1" value="">
+        <button onclick="reverseNumber()">Calculate</button>
+        <label for="" id="2result">/</label>
+    </div>
+    <div>
+        <h3>Problem 3. Occurrences of word</h3>
+        <p>Write a function that finds all the occurrences of word in a text.</p>
+        <p> The search can be case sensitive or case insensitive.</p>
+        <p>Use function overloading.</p>
+        <textarea rows="4" cols="40" id="3input1">Lorem WORD ipsum WORD dolor sit amet word, WORD consectetur adipisicing elit. Rerum minus nemo ex sequi veniam, neque.</textarea>
+        <br>
+        <input type="text" id="3input2" value="WORD" placeholder="A word to search for">
+        <button onclick="wordOccurCountInvoker()">Calculate</button>
+        <input type="checkbox" value="1" id="3input3"><sup>Case sensitive</sup>
+        <label for="" id="3result">/</label>
+    </div>
+    <div>
+        <h3>Problem 4. Number of div elements</h3>
+        <p>Write a function to count the number of div elements on the web page</p>
+        <button onclick="FindAllDivsInvoker()">Calculate</button>
+        <label for="" id="4result">/</label>
+    </div>
+    <div>
+        <h3>Problem 5. Appearance count</h3>
+        <p>Write a function that counts how many times given number appears in given array.</p>
+        <p>Write a test function to check if the function is working correctly.</p>
+        <code>Enter a sequence of numbers separated by space in the first textbox.</code>
+        <input type="text" id="5input1" value="">
+        <input type="text" id="5input2" value="" placeholder="A Number to search for">
+        <button onclick="AppearanceCountInvoker()">Calculate</button>
+        <label for="" id="5result">/</label>
+    </div>
+    <div>
+        <h3>Problem 6. Larger than neighbours</h3>
+        <p>Write a function that checks if the element at given position in given array of integers is bigger than its two neighbours (when such exist).</p>
+        <code>Enter a sequence of numbers separated by space in the first textbox.</code>
+        <input type="text" id="6input1" value="6 2 8 3 6 7 2 4 7 9 0">
+        <input type="text" id="6input2" value="5" placeholder="A position to check">
+        <button onclick="largerThanNeighboursInvoker()">Check</button>
+        <label for="" id="6result">/</label>
+    </div>
+    <div>
+        <h3>Problem 7. First larger than neighbours</h3>
+        <p>Write a function that returns the index of the first element in array that is larger than its neighbours or -1, if there’s no such element.</p>
+        <p>Use the function from the previous exercise.</p>
+        <code>Enter a sequence of numbers separated by space in the textbox.</code>
+        <input type="text" id="7input1" value="6 2 8 3 6 7 2 4 7 9 0">
+        <button onclick="FirstlargerThanNeighboursInvoker()">Check</button>
+        <label for="" id="7result">/</label>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>

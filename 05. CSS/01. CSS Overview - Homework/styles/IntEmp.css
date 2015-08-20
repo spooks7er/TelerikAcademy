@@ -1,0 +1,19 @@
+body{
+}
+
+table{
+	border-collapse: collapse;
+}
+
+thead{
+	background-color: green;
+	color: white;
+	border-style: inset;
+}
+
+tr:nth-child(even){
+	background-color: yellow;
+}
+td{
+	padding: 3px;
+}

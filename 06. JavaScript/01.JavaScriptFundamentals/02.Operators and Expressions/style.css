@@ -1,0 +1,66 @@
+body{
+	text-align: center;
+}
+label{
+	font-size: 1.1em ;
+	font-weight: bold;
+	display: block;
+	color: white;
+}
+input[type="text"]{
+	width: 100px;
+	text-align: right;
+}
+input[type="text"].figureInf{
+	width: 30px;
+}
+#rectangle, #trapezoid{
+	display:none;
+}
+#thirdbit{
+	background: black;
+	color: yellow;
+}
+.cartesian{
+	position: relative;
+	background:url(cartesian.png);
+	width: 700px;
+	height: 700px;
+	border: 1px solid black;
+	display: inline-block;
+	overflow: hidden;
+}
+.circle{
+	position: absolute;
+	border-radius: 50%;
+	background: rgba(34, 177, 76, 0.4);
+}
+.circle#circ1{
+	left: 100px;
+	top: 100px;
+	width: 500px;
+	height: 500px;
+}
+.circle#circ2{
+	left: 250px;
+	top: 150px;
+	width: 300px;
+	height: 300px;
+}
+#rect{
+	position: absolute;
+	background: rgba(0, 162, 232, 0.4);
+	left: 300px;
+	top: 300px;
+	width: 300px;
+	height: 100px;
+}
+.point{
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	background: rgba(255, 0, 0, 0.7);
+	top: 348px;
+	left: 347px;
+}

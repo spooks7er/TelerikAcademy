@@ -1,0 +1,12 @@
+create ninja Shen (10,10) 1
+create rock 50 (8,8)
+Shen go (8,8)
+create tree 100 (2,2)
+Shen gather
+Shen go (2,2)
+Shen gather
+create lumberjack Jack (1,1) 2
+create knight EvilKnight (0,0) 2
+Shen go (0,0)
+Shen attack
+end

@@ -1,0 +1,45 @@
+body{
+	background-color:gray;	
+}
+
+table{
+}
+
+td{
+	vertical-align: top;
+}
+
+th{ 
+	color: white;
+	font-style: italic;
+	font-weight: 100;
+	text-align: left;
+	vertical-align: top;
+	padding-bottom: 20px;
+}
+
+.content{
+	color: cornsilk;
+}
+
+.default{
+color :lightgray;
+}
+
+.error{
+	color:red;
+}
+
+.notif{
+	color:orange;
+}
+
+.circle {	
+	margin-top: 3px;
+	margin-right: 3px;
+	background-color: green;
+	border-radius: 50%;
+	width: 12px;
+	height: 12px; 
+	float: left;
+}

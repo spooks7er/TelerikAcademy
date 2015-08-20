@@ -1,0 +1,26 @@
+Problem 1. Strings in C#.• Describe the strings in C#.
+• What is typical for the string data type?
+• Describe the most important methods of the String class.
+
+The string is data type is a collection of characters, that has a fixed length
+and indexing like with and array. The string data type is immutable. 
+This means that it is read only, and to change a string .Net creates
+a new copy of the current stringwith the new changes. This can lead 
+to fill up the memory quickly when working with big operations. 
+To avoid that we use the StringBuilder.
+
+Most important methods of the String class:
+
+str.Lengtg - returns the lenght of the string;
+Compare(str1, str2) - Compares two strings using the ascii table;
+str1.IndexOf(str2) - Returns the first occurance of a given string or char in another string;
+str1.LastIndexOf(str2) - Returns the last occurance of a given string or char in another string;
+str.Substring(1, 5) - Returns a part of a string starting from a given imdex (1), 
+					   that a has a specified length (5);
+str.Replace(old, new) - Replaces a given part of the string with a new one;
+str.Remove(1, 5) - Works like Substring(), but instead of returning the specified idexes 
+				   it removes them and returns the rest;
+str.ToUpper() - Raises all letters in a string to upper case;
+str.ToLower() - Lowers all letters in a string to lower case;
+str.Trim() - Removes all whitespaces, tabulations, new lines and other characters if specified 
+			 before and after the string.

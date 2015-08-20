@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>String</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>9.Strings</h1>
+    <div>
+        <h3>Problem 1. Reverse string</h3>
+        <input type="text" id="1input1" value="this is the string to be reversed">
+        <button onclick="revStrInvoke()">Reverse</button>
+        <label for="" id="1result">/</label>
+    </div>
+    <div>
+        <h3>Problem 2. Correct brackets</h3>
+        <input type="text" id="2input1" value=")((a + b) / 5 - d)(">
+        <button onclick="bracketCheckerStrInvoke()">Correct</button>
+        <label for="" id="2result">/</label>
+    </div>
+    <div>
+        <h3>Problem 3. Sub-string in text</h3>
+        <textarea rows="5" cols="40" id="3input1">The text is as follows: We are living in an yellow submarine. We don't have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it IN 5 days.</textarea>
+        <br>
+        <input type="text" id="3input2" value="in" placeholder="A word to search for">
+        <button onclick="substringOccurCountInvoker()">Calculate</button>
+        <input type="checkbox" value="1" id="3input3"><sup>Case sensitive</sup>
+        <label for="" id="3result">/</label>
+    </div>
+    <div>
+        <h3>Problem 4. Parse tags</h3>
+        <textarea rows="4" cols="40" id="4input1">We are &lt;mixcase&gt;living&lt;/mixcase&gt; in a &lt;upcase&gt;ye&lt;mixcase&gt;ll&lt;/mixcase&gt;ow &lt;mixcase&gt;sub&lt;upcase&gt;mari&lt;/upcase&gt;ne&lt;/mixcase&gt;&lt;/upcase&gt;. We &lt;mixcase&gt;don't&lt;/mixcase&gt; have &lt;lowcase&gt;ANYTHING&lt;/lowcase&gt; else.</textarea>
+        <br>
+        <label for="" id="4result">/</label>
+        <button onclick="findTagsInvoker()">Parse</button>
+    </div>
+    <div>
+        <h3>Problem 5. nbsp</h3>
+        <textarea rows="4" cols="40" id="5input1">Inspect the result label element to see the effects of this function.</textarea>
+        <br>
+        <label for="" id="5result">/</label>
+        <button onclick="replaceNbpsInvoker()">Parse</button>
+    </div>
+    <div>
+        <h3>Problem 6. Extract text from HTML</h3>
+        <textarea rows="4" cols="40" id="6input1"><html><head><title>Sample site</title> </head><body><div>text <div>more text </div>and more... </div>in body</body></html></textarea>
+        <br>
+        <label for="" id="6result">/</label>
+        <button onclick="extractHTMLInvoker()">Parse</button>
+    </div>
+     <div>
+        <h3>Problem 7. Parse URL</h3>
+        <input type="text" class="longer" id="7input1" value="http://telerikacademy.com/Courses/Courses/Details/239">
+        <br>
+        <label for="" id="7result">/</label>
+        <button onclick="ParseURLInvoker()">Parse</button>
+    </div>
+    <div>
+        <h3>Problem 8. Replace tags</h3>
+        <textarea rows="6" cols="40" id="8input1"><p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p></textarea>
+		<textarea rows="6" cols="40" id="8result"></textarea>
+		<br>
+        <button onclick="replaceTagsInvoker()">Parse</button>
+    </div>
+    <div>
+        <h3>Problem 9. Extract e-mails</h3>
+        <textarea rows="6" cols="40" id="9input1">fsf@dfkgj.com asdasdasd asdasd 8764x1vdgv.fsf@athene.jamux.com asdasdasdasd fsf@ns.biwa.ne.jp asdasdasdasdasdasd info@mail.dfkgj.com asdqqdqdsdasda</textarea>
+		<textarea rows="6" cols="40" id="9result"></textarea>
+		<br>
+        <button onclick="extractEmailsInvoker()">Parse</button>
+    </div>
+
+    <div>
+        <h3>Problem 10. Find palindromes</h3>
+        <textarea rows="6" cols="40" id="10input1">ABBA  , hasdas ,lamal  ,a231dwsw , jojoj  , exe asdasdasd, bob,a sd. asd ,  shish, alkukla</textarea>
+		<textarea rows="6" cols="40" id="10result"></textarea>
+		<br>
+        <button onclick="findPalindromesInvoker()">Parse</button>
+    </div>
+    <div>
+        <h3>Problem 11. String format</h3>
+        <input type="text" class="longer" id="11input1" value="asd {0} ,{1}, {2}', 'pesho', 'stamat', 'OK'">
+		<br>
+        <button onclick="stringFormatInvoker()">Parse</button>
+        <label for="" id="11result">/</label>
+    </div>
+
+    <div>
+        <h3>Problem 12. Generate list</h3>
+		<br>
+        <button onclick="generateListInvoker()">Generate list</button>
+        <div for="" id="12result"></div>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>

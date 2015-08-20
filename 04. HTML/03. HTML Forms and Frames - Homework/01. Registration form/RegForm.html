@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>01. Registration form</title>
+    <style>
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        th {
+            width: 200px;
+        }
+
+        input[type=text] {
+            width: 200px;
+        }
+
+        .phcode {
+            width: 40px !important;
+        }
+
+        #phnumber {
+            width: 85px;
+        }
+
+        #country {
+            width: 100px;
+        }
+
+        #state {
+            width: 30px;
+        }
+
+        #zip {
+            width: 50px;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <table border="1">
+            <tr>
+                <th>Last Name</th>
+                <td>
+                    <input type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>First Name</th>
+                <td>
+                    <input type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>Address</th>
+                <td>
+                    <textarea name="address" cols="26" rows="3"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <th>City</th>
+                <td>
+                    <input id="country" type="text" value="" />
+                    <label for="state">State</label>
+                    <input id="state" type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>Zip/Postal Code</th>
+                <td>
+                    <input id="zip" type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>Country</th>
+                <td>
+                    <select>
+                        <option value="1">Bulgaria</option>
+                        <option value="2">France</option>
+                        <option value="3">Italy</option>
+                        <option value="4">England</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Phone(country code, area code, number)</th>
+                <td>
+                    +(<input class="phcode" type="text" value="" />)
+                    <input class="phcode" type="text" value="" />
+                    <input id="phnumber" type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>E-mail</th>
+                <td>
+                    <input type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>Birth date</th>
+                <td>
+                    <input type="date" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>Gender</th>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <label for="male-label">Male</label>
+                    <input id="male-label" type="radio" name="gender[]" value="" />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <label for="female-label">Female</label>
+                    <input id="female-label" type="radio" name="gender[]" value="" />
+                </td>
+            </tr>
+            <tr>
+                <th>Starting date</th>
+                <td>
+                    <select>
+                        <option value="1">Spring 2015</option>
+                        <option value="2">Summer 2015</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Comments/Questions</th>
+                <td>
+                    <textarea name="address" cols="26" rows="5"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <input type="submit" value="Submit" />
+                    <input type="reset" value="Reset form" />
+                </th>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

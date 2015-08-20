@@ -1,0 +1,10 @@
+add 10 AncientBehemoth(1)
+add 1 CyclopsKing(2)
+skip CyclopsKing(2)
+attack CyclopsKing(2) AncientBehemoth(1)
+attack CyclopsKing(2) AncientBehemoth(1)
+attack CyclopsKing(2) AncientBehemoth(1)
+attack CyclopsKing(2) AncientBehemoth(1)
+attack CyclopsKing(2) AncientBehemoth(1)
+attack CyclopsKing(2) AncientBehemoth(1)
+exit

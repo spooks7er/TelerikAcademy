@@ -1,0 +1,56 @@
+imgWidth = 640px
+imgHeight = 500px
+shrinkRatio = 0.31
+zoomRatio = 0.55
+hoverActive = active
+
+thumb()
+  width (imgWidth*shrinkRatio)
+  height (imgHeight*shrinkRatio)
+  
+zoom()
+  width  (imgWidth*zoomRatio)
+  height (imgHeight*zoomRatio)
+  
+body
+  margin 0
+  padding 0
+
+.gal
+  margin-top 20px
+  margin-left -20px
+  img
+    position relative
+    thumb()
+    left 0px
+    top 0px
+    border 1px solid black
+    transition width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease
+    -webkit-transition width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease
+    -o-transition width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease
+    -moz-transition width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease
+  li
+    thumb()
+    margin 4px
+    display inline-block
+    float left
+    overflow visible
+    &:first-child 
+      img:{hoverActive}
+        zoom()
+        left 0px
+        top 35px
+        z-index 9999
+    img:{hoverActive}
+      zoom()
+      left -75px
+      top 35px
+      z-index 9999
+    &:last-child img:{hoverActive}
+        zoom()
+        left -150px
+        top 35px
+        z-index 9999
+  ul
+    clear both
+    list-style none

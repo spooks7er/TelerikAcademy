@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+}
+label{
+	font-size: 1.1em ;
+	font-weight: bold;
+	display: block;
+	visibility: hidden;
+}
+input[type="text"]{
+	width: 100px;
+	text-align: right;
+}
+input[type="text"].figureInf{
+	width: 30px;
+}

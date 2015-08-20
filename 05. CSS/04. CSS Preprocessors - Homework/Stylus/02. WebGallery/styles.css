@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.gal {
+  margin-top: 20px;
+  margin-left: -20px;
+}
+.gal img {
+  position: relative;
+  width: 198.4px;
+  height: 155px;
+  left: 0px;
+  top: 0px;
+  border: 1px solid #000;
+  transition: width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease;
+  -webkit-transition: width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease;
+  -o-transition: width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease;
+  -moz-transition: width 0.2s ease, height 0.2s ease, left 0.2s ease, top 0.2s ease;
+}
+.gal li {
+  width: 198.4px;
+  height: 155px;
+  margin: 4px;
+  display: inline-block;
+  float: left;
+  overflow: visible;
+}
+.gal li:first-child img:active {
+  width: 352px;
+  height: 275px;
+  left: 0px;
+  top: 35px;
+  z-index: 9999;
+}
+.gal li img:active {
+  width: 352px;
+  height: 275px;
+  left: -75px;
+  top: 35px;
+  z-index: 9999;
+}
+.gal li:last-child img:active {
+  width: 352px;
+  height: 275px;
+  left: -150px;
+  top: 35px;
+  z-index: 9999;
+}
+.gal ul {
+  clear: both;
+  list-style: none;
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Operators and Expressions</title>
+	<link rel="stylesheet" href="style.css" media="screen, print">
+</head>
+<body>
+	<h1>2.Operators and Expressions</h1>
+	<div>
+		<h3>Problem 1. Odd or Even</h3>
+		<input type="text" id="oddEvenTb">
+		<button onclick="oddEven()">Check</button>
+		<label for="" id="oddEvenLbl">/</label>
+	</div>
+	<div>
+		<h3>Problem 2. Divisible by 7 and 5</h3>
+		<input type="text" id="fiveSevenTb">
+		<button onclick="fiveSeven()">Check</button>
+		<label for="" id="fiveSevenLbl">/</label>
+	</div>
+	<div>
+		<h3>Problem 3. Rectangle area</h3>
+		side a: <input type="text" id="sideA">
+		side b: <input type="text" id="sideB">
+		<button onclick="rectArea()">Check</button>
+		<label for="" id="rectAreaLbl">/</label>
+		<div id="rectangle"></div>
+	</div>
+	<div>
+		<h3>Problem 4. Third digit</h3>
+		<input type="text" id="thirdDigitTb">
+		<button onclick="thirdDigit()">Check</button>
+		<label for="" id="thirdDigitLbl">/</label>
+	</div>
+	<div>
+		<h3>Problem 5. Third bit</h3>
+		<input type="text" id="thirdBitTb">
+		<button onclick="thirdBit()">Check</button>
+		<label for="" id="binaryLbl">/</label>
+		<!-- <label for="" id="thirdBitLbl">/</label> -->
+	</div>
+	<div>
+		<h3>Problem 6. Point in Circle K({0,0}, 5)</h3>
+		X: <input type="text" id="pointInCircleX">
+		Y: <input type="text" id="pointInCircleY">
+		<button onclick="pointInCircle()">Check</button>
+		<br>
+		K({<input type="text" class="figureInf" id="circ1X" value="0">,
+		<input type="text" class="figureInf" id="circ1Y" value="0">},
+		<input type="text" class="figureInf" id="circ1R" value="5">)
+		<label for="" id="pointInCircleLbl">/</label>
+		<div class="cartesian">
+			<div class="circle" id="circ1"></div>
+			<div class="point" id="p1"></div>
+		</div>
+	</div>
+	<div>
+		<h3>Problem 7. Is prime</h3>
+		<input type="text" id="IsPrimeTb">
+		<button onclick="IsPrime()">Check</button>
+		<label for="" id="IsPrimeLbl">/</label>
+	</div>
+	<div>
+		<h3>Problem 8. Trapezoid area</h3>
+		side a: <input type="text" id="trsideA">
+		side b: <input type="text" id="trsideB">
+		height: <input type="text" id="trheight">
+		<button onclick="trapezoidAr()">Check</button>
+		<label for="" id="trapezoidArLbl">/</label>
+		<div id="trapezoid"></div>
+	</div>
+	<div>
+		<h3>Problem 9. Point in Circle K({1,1}, 3) 
+		and outside Rectangle R(top=1, left=-1, width=6, height=2)</h3>
+		X: <input type="text" id="pointInCircleRectX">
+		Y: <input type="text" id="pointInCircleRectY">
+		<button onclick="pointInCircleRect()">Check</button>
+		<br>
+		K({<input type="text" class="figureInf" id="circ2X" value="1">,
+		<input type="text" class="figureInf" id="circ2Y" value="1">},
+		<input type="text" class="figureInf" id="circ2R" value="3">)
+		<br>
+		R(top=<input type="text" class="figureInf" id="rectTop" value="1">,
+		left=<input type="text" class="figureInf" id="rectLeft" value="-1">,
+		width=<input type="text" class="figureInf" id="rectW" value="6">,
+		height=<input type="text" class="figureInf" id="recth" value="2">)
+		<label for="" id="pointInCircleRectLbl">/</label>
+		<div class="cartesian">
+			<div class="circle" id="circ2"></div>
+			<div id="rect" ></div>
+			<div class="point" id="p2"></div>
+		</div>
+	</div>
+</body>
+<script src="script.js"></script>
+</html>
