@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xslt" href="catalogue.xslt"?>
+<albums>
+  <album>
+    <name>Master of Puppets</name>
+    <artist>Metallica</artist>
+    <year>1986</year>
+    <producer>Flemming Rasmussen</producer>
+    <price>20.66</price>
+    <songs>
+      <song>
+        <title>Battery</title>
+        <duration>5:12</duration>
+      </song>
+      <song>
+        <title>Master of Puppets</title>
+        <duration>8:36</duration>
+      </song>
+      <song>
+        <title>The Thing That Should Not Be</title>
+        <duration>6:37</duration>
+      </song>
+      <song>
+        <title>Welcome Home (Sanitarium)</title>
+        <duration>6:27</duration>
+      </song>
+      <song>
+        <title>Disposable Heroes</title>
+        <duration>8:17</duration>
+      </song>
+      <song>
+        <title>Leper Messiah</title>
+        <duration>5:40</duration>
+      </song>
+      <song>
+        <title>Orion</title>
+        <duration>8:28</duration>
+      </song>
+      <song>
+        <title>Damage, Inc.</title>
+        <duration>5:29</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>...And Justice for All</name>
+    <artist>Metallica</artist>
+    <year>1988</year>
+    <producer>Flemming Rasmussen</producer>
+    <price>20.50</price>
+    <songs>
+      <song>
+        <title>Blackened</title>
+        <duration>6:41</duration>
+      </song>
+      <song>
+        <title>...And Justice for All</title>
+        <duration>9:46</duration>
+      </song>
+      <song>
+        <title>Eye of the Beholder</title>
+        <duration>6:30</duration>
+      </song>
+      <song>
+        <title>One</title>
+        <duration>7:27</duration>
+      </song>
+      <song>
+        <title>The Shortest Straw</title>
+        <duration>6:35</duration>
+      </song>
+      <song>
+        <title>Harvester of Sorrow</title>
+        <duration>5:43</duration>
+      </song>
+      <song>
+        <title>The Frayed Ends of Sanity</title>
+        <duration>7:44</duration>
+      </song>
+      <song>
+        <title>To Live Is to Die</title>
+        <duration>9:48</duration>
+      </song>
+      <song>
+        <title>Dyers Eve</title>
+        <duration>5:13</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Silence in the Snow</name>
+    <artist>Trivium</artist>
+    <year>2015</year>
+    <producer>Michael "Elvis" Baskette</producer>
+    <price>18.50</price>
+    <songs>
+      <song>
+        <title>Snøfall</title>
+        <duration>1:28</duration>
+      </song>
+      <song>
+        <title>Silence in the Snow</title>
+        <duration>3:40</duration>
+      </song>
+      <song>
+        <title>Blind Leading the Blind</title>
+        <duration>4:25</duration>
+      </song>
+      <song>
+        <title>Dead and Gone</title>
+        <duration>3:46</duration>
+      </song>
+      <song>
+        <title>The Ghost That's Haunting You</title>
+        <duration>4:09</duration>
+      </song>
+      <song>
+        <title>Pull Me from the Void</title>
+        <duration>3:53</duration>
+      </song>
+      <song>
+        <title>Until the World Goes Cold</title>
+        <duration>5:21</duration>
+      </song>
+      <song>
+        <title>Rise Above the Tides</title>
+        <duration>3:54</duration>
+      </song>
+      <song>
+        <title>The Thing That's Killing Me</title>
+        <duration>3:30</duration>
+      </song>
+      <song>
+        <title>Beneath the Sun</title>
+        <duration>3:56</duration>
+      </song>
+      <song>
+        <title>Breathe in the Flames</title>
+        <duration>5:11</duration>
+      </song>
+    </songs>
+  </album>
+</albums>

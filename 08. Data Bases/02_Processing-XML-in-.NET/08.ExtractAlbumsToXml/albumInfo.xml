@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Master of Puppets</name>
+    <artist>Metallica</artist>
+  </album>
+  <album>
+    <name>...And Justice for All</name>
+    <artist>Metallica</artist>
+  </album>
+  <album>
+    <name>Silence in the Snow</name>
+    <artist>Trivium</artist>
+  </album>
+</albums>

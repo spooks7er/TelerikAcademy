@@ -1,0 +1,7 @@
+XML stands fot Extensible Markup Language.
+XML defines a set of rules for store various data,
+represented by tag pairs.
+XML is meant to be human-readable and machine-readable
+
+XML namespaces provide a way to avoid tag name conflicts.
+With namespaces you can use different tags with same names.

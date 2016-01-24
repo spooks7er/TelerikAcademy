@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xslt" href="students.xslt"?>
+<students>
+  <student>
+    <name>Pesho Fredov</name>
+    <sex>male</sex>
+    <birth-date>1988-05-05</birth-date>
+    <phone>9889849645</phone>
+    <email>asd@asdasd.asd</email>
+    <course>Calculus</course>
+    <specialty>Math</specialty>
+    <faculty-number>54654654</faculty-number>
+    <exams>
+      <exam>
+        <name>Calculus</name>
+        <tutor>Panayot</tutor>
+        <score>89.56</score>
+      </exam>
+    </exams>
+    <enrollment>
+      <date>2015-01-01</date>
+      <exam-score>89.5</exam-score>
+    </enrollment>
+    <endorsements>
+      <teacher-name>Panayot</teacher-name>
+      <endorsment>very good at math</endorsment>
+    </endorsements>
+  </student>
+  <student >
+    <name>Stamat Topchev</name>
+    <sex>male</sex>
+    <birth-date>1988-06-09</birth-date>
+    <phone>08080880</phone>
+    <email>ghjd@ghj.ty</email>
+    <course>Physics</course>
+    <specialty>Science</specialty>
+    <faculty-number>0465454</faculty-number>
+    <exams>
+      <exam>
+        <name>Physics</name>
+        <tutor>Gosho</tutor>
+        <score>80</score>
+      </exam>
+    </exams>
+    <enrollment>
+      <date>2015-01-01</date>
+      <exam-score>89.5</exam-score>
+    </enrollment>
+    <endorsements>
+      <teacher-name>Gosho</teacher-name>
+      <endorsment>very good at physics</endorsment>
+    </endorsements>
+  </student>
+</students>

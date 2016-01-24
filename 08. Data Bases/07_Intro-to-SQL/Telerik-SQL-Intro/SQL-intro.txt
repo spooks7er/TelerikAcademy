@@ -1,0 +1,14 @@
+SQL is a laguage that lets us manipulate data and database objects 
+in a relational database system
+
+DML - Data Manipulation language is that part of the SQL languange
+with which we manipulate the data (duh!). It gives us commands like 
+SELECT, INSERT, UPDATE, DELETE.
+
+DDL - Data Definition Language. Gives us the tools to manipulate database 
+objects like tables, keys, triggers and so on. The most important DDL 
+commands are CREATE, ALTER, DROP, TRUNCATE.
+
+T-SQL - Transact SQL is an extension to SQL that allows us to do more 
+in depth programming with SQL like creating loops, iterations, 
+conditional structures and so on.
